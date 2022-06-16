@@ -1,4 +1,4 @@
-## PAGINA DE PROGRAMACION ORIENTADA A EVENTOS
+## PAGINA DE PROGRAMACION ORIENTADA A EVENTOSff
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
